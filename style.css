@@ -167,8 +167,8 @@ nav {
 }
 @media screen and (max-width: 576px) {
 	body {
-         background-image: url(smatt2.jpg);
-		 background-position: 60%;
+         background-image: url(bg1.jpeg);
+		 background-position: 100%;
          background-repeat: no-repeat;
 	}
 	.wrapper {
