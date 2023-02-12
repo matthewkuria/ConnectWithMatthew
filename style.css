@@ -18,8 +18,9 @@ nav {
 body{
     background-image: url(bg1.jpeg);
     background-attachment: scroll;
+    background-repeat: no-repeat;
     background-size: cover;
-    max-height: 100vh;
+    height: 100vh;
 }
 .btn a:hover{
     color:green;
