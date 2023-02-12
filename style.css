@@ -15,13 +15,7 @@ nav {
 	min-height: 10vh;
 	background: #ef0554;
 }
-body{
-    background-image: url(bg1.jpeg);
-    background-attachment: scroll;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
-}
+
 .btn a:hover{
     color:green;
     background: white;
